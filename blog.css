@@ -16,3 +16,7 @@ a:visited{
     color:aqua;
 }
 
+p{
+    inline-size: 70%; 
+
+}
